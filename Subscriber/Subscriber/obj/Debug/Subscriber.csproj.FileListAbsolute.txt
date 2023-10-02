@@ -1,0 +1,29 @@
+D:\UTM\Lucrari de laborator\PAD\Subscriber\Subscriber\bin\Debug\Subscriber.exe.config
+D:\UTM\Lucrari de laborator\PAD\Subscriber\Subscriber\bin\Debug\Subscriber.exe
+D:\UTM\Lucrari de laborator\PAD\Subscriber\Subscriber\bin\Debug\Subscriber.pdb
+D:\UTM\Lucrari de laborator\PAD\Subscriber\Subscriber\obj\Debug\Subscriber.csprojResolveAssemblyReference.cache
+D:\UTM\Lucrari de laborator\PAD\Subscriber\Subscriber\obj\Debug\Subscriber.csproj.CoreCompileInputs.cache
+D:\UTM\Lucrari de laborator\PAD\Subscriber\Subscriber\obj\Debug\Subscriber.exe
+D:\UTM\Lucrari de laborator\PAD\Subscriber\Subscriber\obj\Debug\Subscriber.pdb
+D:\UTM\Lucrari de laborator\PAD\PAD-LABS\LAB1\Subscriber\Subscriber\bin\Debug\Subscriber.exe.config
+D:\UTM\Lucrari de laborator\PAD\PAD-LABS\LAB1\Subscriber\Subscriber\bin\Debug\Subscriber.exe
+D:\UTM\Lucrari de laborator\PAD\PAD-LABS\LAB1\Subscriber\Subscriber\bin\Debug\Subscriber.pdb
+D:\UTM\Lucrari de laborator\PAD\PAD-LABS\LAB1\Subscriber\Subscriber\obj\Debug\Subscriber.csprojResolveAssemblyReference.cache
+D:\UTM\Lucrari de laborator\PAD\PAD-LABS\LAB1\Subscriber\Subscriber\obj\Debug\Subscriber.csproj.CoreCompileInputs.cache
+D:\UTM\Lucrari de laborator\PAD\PAD-LABS\LAB1\Subscriber\Subscriber\obj\Debug\Subscriber.exe
+D:\UTM\Lucrari de laborator\PAD\PAD-LABS\LAB1\Subscriber\Subscriber\obj\Debug\Subscriber.pdb
+D:\UTM\Lucrari de laborator\PAD\LAB2\Subscriber\Subscriber\bin\Debug\Subscriber.exe.config
+D:\UTM\Lucrari de laborator\PAD\LAB2\Subscriber\Subscriber\bin\Debug\Subscriber.exe
+D:\UTM\Lucrari de laborator\PAD\LAB2\Subscriber\Subscriber\bin\Debug\Subscriber.pdb
+D:\UTM\Lucrari de laborator\PAD\LAB2\Subscriber\Subscriber\obj\Debug\Subscriber.csproj.CoreCompileInputs.cache
+D:\UTM\Lucrari de laborator\PAD\LAB2\Subscriber\Subscriber\obj\Debug\Subscriber.exe
+D:\UTM\Lucrari de laborator\PAD\LAB2\Subscriber\Subscriber\obj\Debug\Subscriber.pdb
+D:\UTM\Lucrari de laborator\PAD\LAB2\Subscriber\Subscriber\obj\Debug\Subscriber.csprojResolveAssemblyReference.cache
+D:\utm\sem7\PAD\PAD-LABS-master\PAD-LABS-master\LAB2\Subscriber\Subscriber\bin\Debug\Subscriber.exe.config
+D:\utm\sem7\PAD\PAD-LABS-master\PAD-LABS-master\LAB2\Subscriber\Subscriber\bin\Debug\Subscriber.exe
+D:\utm\sem7\PAD\PAD-LABS-master\PAD-LABS-master\LAB2\Subscriber\Subscriber\bin\Debug\Subscriber.pdb
+D:\utm\sem7\PAD\PAD-LABS-master\PAD-LABS-master\LAB2\Subscriber\Subscriber\obj\Debug\Subscriber.csproj.AssemblyReference.cache
+D:\utm\sem7\PAD\PAD-LABS-master\PAD-LABS-master\LAB2\Subscriber\Subscriber\obj\Debug\Subscriber.csproj.SuggestedBindingRedirects.cache
+D:\utm\sem7\PAD\PAD-LABS-master\PAD-LABS-master\LAB2\Subscriber\Subscriber\obj\Debug\Subscriber.csproj.CoreCompileInputs.cache
+D:\utm\sem7\PAD\PAD-LABS-master\PAD-LABS-master\LAB2\Subscriber\Subscriber\obj\Debug\Subscriber.exe
+D:\utm\sem7\PAD\PAD-LABS-master\PAD-LABS-master\LAB2\Subscriber\Subscriber\obj\Debug\Subscriber.pdb

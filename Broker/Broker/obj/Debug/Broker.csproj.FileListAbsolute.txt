@@ -1,0 +1,41 @@
+D:\UTM\Lucrari de laborator\PAD\Broker\Broker\bin\Debug\Broker.exe.config
+D:\UTM\Lucrari de laborator\PAD\Broker\Broker\bin\Debug\Broker.exe
+D:\UTM\Lucrari de laborator\PAD\Broker\Broker\bin\Debug\Broker.pdb
+D:\UTM\Lucrari de laborator\PAD\Broker\Broker\obj\Debug\Broker.csprojResolveAssemblyReference.cache
+D:\UTM\Lucrari de laborator\PAD\Broker\Broker\obj\Debug\Broker.csproj.CoreCompileInputs.cache
+D:\UTM\Lucrari de laborator\PAD\Broker\Broker\obj\Debug\Broker.exe
+D:\UTM\Lucrari de laborator\PAD\Broker\Broker\obj\Debug\Broker.pdb
+D:\UTM\Lucrari de laborator\PAD\Broker\Broker\bin\Debug\System.ValueTuple.dll
+D:\UTM\Lucrari de laborator\PAD\Broker\Broker\bin\Debug\System.ValueTuple.xml
+D:\UTM\Lucrari de laborator\PAD\Broker\Broker\obj\Debug\Broker.csproj.CopyComplete
+D:\UTM\Lucrari de laborator\PAD\PAD-LABS\LAB1\Broker\Broker\bin\Debug\Broker.exe.config
+D:\UTM\Lucrari de laborator\PAD\PAD-LABS\LAB1\Broker\Broker\bin\Debug\Broker.exe
+D:\UTM\Lucrari de laborator\PAD\PAD-LABS\LAB1\Broker\Broker\bin\Debug\Broker.pdb
+D:\UTM\Lucrari de laborator\PAD\PAD-LABS\LAB1\Broker\Broker\bin\Debug\System.ValueTuple.dll
+D:\UTM\Lucrari de laborator\PAD\PAD-LABS\LAB1\Broker\Broker\bin\Debug\System.ValueTuple.xml
+D:\UTM\Lucrari de laborator\PAD\PAD-LABS\LAB1\Broker\Broker\obj\Debug\Broker.csprojResolveAssemblyReference.cache
+D:\UTM\Lucrari de laborator\PAD\PAD-LABS\LAB1\Broker\Broker\obj\Debug\Broker.csproj.CoreCompileInputs.cache
+D:\UTM\Lucrari de laborator\PAD\PAD-LABS\LAB1\Broker\Broker\obj\Debug\Broker.csproj.CopyComplete
+D:\UTM\Lucrari de laborator\PAD\PAD-LABS\LAB1\Broker\Broker\obj\Debug\Broker.exe
+D:\UTM\Lucrari de laborator\PAD\PAD-LABS\LAB1\Broker\Broker\obj\Debug\Broker.pdb
+D:\UTM\Lucrari de laborator\PAD\LAB2\Broker\Broker\bin\Debug\Broker.exe.config
+D:\UTM\Lucrari de laborator\PAD\LAB2\Broker\Broker\bin\Debug\Broker.exe
+D:\UTM\Lucrari de laborator\PAD\LAB2\Broker\Broker\bin\Debug\Broker.pdb
+D:\UTM\Lucrari de laborator\PAD\LAB2\Broker\Broker\bin\Debug\System.ValueTuple.dll
+D:\UTM\Lucrari de laborator\PAD\LAB2\Broker\Broker\bin\Debug\System.ValueTuple.xml
+D:\UTM\Lucrari de laborator\PAD\LAB2\Broker\Broker\obj\Debug\Broker.csproj.CoreCompileInputs.cache
+D:\UTM\Lucrari de laborator\PAD\LAB2\Broker\Broker\obj\Debug\Broker.csproj.CopyComplete
+D:\UTM\Lucrari de laborator\PAD\LAB2\Broker\Broker\obj\Debug\Broker.exe
+D:\UTM\Lucrari de laborator\PAD\LAB2\Broker\Broker\obj\Debug\Broker.pdb
+D:\UTM\Lucrari de laborator\PAD\LAB2\Broker\Broker\obj\Debug\Broker.csprojResolveAssemblyReference.cache
+D:\utm\sem7\PAD\PAD-LABS-master\PAD-LABS-master\LAB2\Broker\Broker\bin\Debug\Broker.exe.config
+D:\utm\sem7\PAD\PAD-LABS-master\PAD-LABS-master\LAB2\Broker\Broker\bin\Debug\Broker.exe
+D:\utm\sem7\PAD\PAD-LABS-master\PAD-LABS-master\LAB2\Broker\Broker\bin\Debug\Broker.pdb
+D:\utm\sem7\PAD\PAD-LABS-master\PAD-LABS-master\LAB2\Broker\Broker\bin\Debug\System.ValueTuple.dll
+D:\utm\sem7\PAD\PAD-LABS-master\PAD-LABS-master\LAB2\Broker\Broker\bin\Debug\System.ValueTuple.xml
+D:\utm\sem7\PAD\PAD-LABS-master\PAD-LABS-master\LAB2\Broker\Broker\obj\Debug\Broker.csproj.AssemblyReference.cache
+D:\utm\sem7\PAD\PAD-LABS-master\PAD-LABS-master\LAB2\Broker\Broker\obj\Debug\Broker.csproj.SuggestedBindingRedirects.cache
+D:\utm\sem7\PAD\PAD-LABS-master\PAD-LABS-master\LAB2\Broker\Broker\obj\Debug\Broker.csproj.CoreCompileInputs.cache
+D:\utm\sem7\PAD\PAD-LABS-master\PAD-LABS-master\LAB2\Broker\Broker\obj\Debug\Broker.csproj.CopyComplete
+D:\utm\sem7\PAD\PAD-LABS-master\PAD-LABS-master\LAB2\Broker\Broker\obj\Debug\Broker.exe
+D:\utm\sem7\PAD\PAD-LABS-master\PAD-LABS-master\LAB2\Broker\Broker\obj\Debug\Broker.pdb
